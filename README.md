@@ -1,2 +1,2 @@
 # jokenpo
- desenvolvi da minah forma, um algoritimo que simula um jogo de JOKENPO! 
+ desenvolvi da minha forma uma simulação de um JOKENPO!!
